@@ -4,13 +4,18 @@ Kurzanleitungen zu diversen WordsPress Themen.
 
 ## SEO
 
-XML Sitemaps
+### Allgemein
+
+[XML Sitemaps](xml-sitemaps.md)
 
 ### SEO PlugIns
 
+#### Yoast SEO
+
 [Yoast SEO einrichten](yoast-seo-einrichten.md)
 
-Yoast SEO anwenden
+[Yoast SEO anwenden](yoast-seo-anwenden.md)
 
-## Sonstige
+## Sonstiges
 
+[Multisite einrichten](multisite-einrichten.md)
