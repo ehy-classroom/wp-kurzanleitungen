@@ -1,6 +1,6 @@
 # WordPress Kurzanleitungen
 
-Kurzanleitungen zu diversen WordsPress Themen.
+Kurzanleitungen zu diversen WordPress Themen. Zusammengestellt von Enno Hyttrek, erarbeitet in Kollaboration mit Kollege ChatGPT.
 
 ## SEO
 
