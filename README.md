@@ -10,6 +10,8 @@ Kurzanleitungen zu diversen WordPress Themen.
 
 ### SEO PlugIns
 
+[Übersicht/Vergleich](seo-plugins-vergleich.md)
+
 #### Yoast SEO
 
 [Yoast SEO einrichten](yoast-seo-einrichten.md)
