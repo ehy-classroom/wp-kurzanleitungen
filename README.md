@@ -1,6 +1,6 @@
 # WordPress Kurzanleitungen
 
-Kurzanleitungen zu diversen WordPress Themen. Zusammengestellt von Enno Hyttrek, erarbeitet in Kollaboration mit Kollege ChatGPT.
+Kurzanleitungen zu diversen WordPress Themen. Erarbeitet in Kollaboration mit Kollege ChatGPT. Zusammengestellt, redaktionell überprüft und angepasst von Enno Hyttrek, ehy.training@gmail.com
 
 ## SEO
 
