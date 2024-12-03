@@ -1,6 +1,6 @@
 # WordPress Kurzanleitungen
 
-Kurzanleitungen zu diversen WordPress Themen. Erarbeitet in Kollaboration mit Kollege ChatGPT. Zusammengestellt, redaktionell überprüft und angepasst von Enno Hyttrek, ehy.training@gmail.com
+Kurzanleitungen zu diversen WordPress Themen.
 
 ## SEO
 
@@ -15,6 +15,12 @@ Kurzanleitungen zu diversen WordPress Themen. Erarbeitet in Kollaboration mit Ko
 [Yoast SEO einrichten](yoast-seo-einrichten.md)
 
 [Yoast SEO anwenden](yoast-seo-anwenden.md)
+
+#### Rankmath SEO
+
+[Rankmath SEO einrichten](rankmath-einrichten.md)
+
+[Rankmath SEO anwenden](rankmath-anwenden.md)
 
 ## Sonstiges
 
